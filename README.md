@@ -47,7 +47,7 @@ Lead analyst: Kana Moore
 ![alt text](./Images/2000_lpr.png)
 
 #### 2018
-![alt text](./Images/2018_lpr.ong.png)
+![alt text](./Images/2018_lpr.png)
 
 Based on a 2000 and 2018 comparison, California, New York, Florida, Texas and New Jersey were top 5 immigrants destinations. This order didn't change between 2000 and 2018. In 2000, 62% of immigrants moved to one of top 5 states. In 2018, 57% of immigrants moved to one of top 5 states, suggesting that immigrants were immigrating to non-top 5 states.
 
