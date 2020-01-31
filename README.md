@@ -9,13 +9,13 @@ We wanted to understand:
 
 ## Our findings
 
-### Naturalization rates, 1907 - 2018
-
-![alt text](./Images/overall_naturalizations.png)
-
 ### Lawful permanent resident rates, 1823 - 2018
 
 ![alt text](./Images/overall_lpr.png)
+
+### Naturalization rates, 1907 - 2018
+
+![alt text](./Images/overall_naturalizations.png)
 
 ### 9/11 affected immigration rates from predominantly Muslim countries, but not how you'd expect.
 
