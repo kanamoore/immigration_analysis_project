@@ -11,9 +11,13 @@ We wanted to understand:
 
 ### Lawful permanent resident rates, 1823 - 2018
 
+Lead Analyst: Satish Nirankari
+
 ![alt text](./Images/overall_lpr.png)
 
 ### Naturalization rates, 1907 - 2018
+
+Lead Analyst: Stacy Konkiel
 
 ![alt text](./Images/overall_naturalizations.png)
 
@@ -37,6 +41,8 @@ Towards the start of the 21st century, we see a spike in the number of petitions
 
 ### State migration trends
 
+Lead analyst: Kana Moore
+
 #### 2000
 ![alt text](./Images/2000_lpr.png)
 
@@ -46,6 +52,8 @@ Towards the start of the 21st century, we see a spike in the number of petitions
 Based on a 2000 and 2018 comparison, California, New York, Florida, Texas and New Jersey were top 5 immigrants destinations. This order didn't change between 2000 and 2018. In 2000, 62% of immigrants moved to one of top 5 states. In 2018, 57% of immigrants moved to one of top 5 states, suggesting that immigrants were immigrating to non-top 5 states.
 
 ### Demographic differences observed among lawful permanent residents and asylum seekers, 2009 vs 2018
+
+Lead analyst: Umar Hassan
 
 We did not test for statistical significance between these samples, as we were uncertain of the independence of these groups (e.g. one can be both an LPR and an asylum seeker at the same time).
 
@@ -68,9 +76,9 @@ The sex ratio of lawful permanent resident is largely equal.
 ### Other observations
 
 * 1823: Lowest # LPRs (~6k)
-* 1991: Peak in LPRs (~1.8M)
-* 1997: Peak in naturalizations
-* 1997+: Unexpected growth in rejected naturalization applications (IIRIA)
+* 1991: Peak # LPRs (~1.8M)
+* 1997: Peak # naturalizations
+* 1997+: Unexpected growth in rejected naturalization petitions (IIRIA)
 * Growth in overall proportion of immigrants from 6% (1950) to 13% (2017) - this was much smaller than we expected, and from what political discourse would lead you to believe
 * Mexico has the highest number of LPRs in last 30 years (6.2M)
 * Maldives has lowest number of immigrants in same time frame (121)
